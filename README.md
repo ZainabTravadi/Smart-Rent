@@ -119,11 +119,9 @@ smart-rent/
 │  │  ├─ App.js
 │  │  └─ index.js
 │
-└─ docs/
-   ├─ API.md
-   ├─ FEATURES.md
-   ├─ CONTRIBUTING.md
-   └─ UI-UX.md
+├─ API.md
+├─ FEATURES.md
+└─ CONTRIBUTING.md
 ```
 
 ---
