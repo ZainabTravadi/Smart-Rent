@@ -85,7 +85,7 @@ git checkout -b feature/my-awesome-feature upstream/main
 ```bash
 cd backend
 npm install
-cp env.example .env
+cp .env.example .env
 npm run dev
 ```
 
